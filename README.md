@@ -1,8 +1,8 @@
-#Installation
+# Installation
 
 For the programm to run correctly you will need to extract the right driver based on your chrome driver, folders 76/77/78 contains drivers for chrome version 76-78.
 
-#Buttons : 
+# Buttons : 
 
 Translate - translating the content using google's library and saving the translation to .txt file, the file showed on the bottom.
 
@@ -12,7 +12,7 @@ open website - opens google translate website and automatically types the word.
 
 
 
-#What I've learned :
+# What I've learned :
 
 1.Selenium library was a poor choise for this project , webscrapper would be better for the user and for the running time.
 
